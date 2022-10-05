@@ -13,7 +13,6 @@
 
 - ✈️ Fun fact **I have traveled to 40+ countries**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
