@@ -1,4 +1,4 @@
-<h1 align="center">Hi😄, I'm Grant Sweeney</h1>
+<h1 align="center">Hi 😄 , I'm Grant Sweeney</h1>
 <h3 align="center">Full-Stack Developer, specializing in Mobile App Development</h3>
 
 - 📈 I'm currently working on [EpochTrade](https://github.com/grantsweeney02/EpochTrade)
