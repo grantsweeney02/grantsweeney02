@@ -7,7 +7,7 @@
 
 - ✅ I recently finished [NotesHelper](https://github.com/grantsweeney02/NotesHelper)
 
-- 👨‍💻 All of my projects are available at [grantsweeney.com](grantsweeney.com)
+- 👨‍💻 All of my projects are available at [grantsweeney.com](grantsweeney.co)
 
 - 📫 How to reach me **grant.h.sweeney@outlook.com**
 
