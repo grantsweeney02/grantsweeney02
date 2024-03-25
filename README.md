@@ -1,10 +1,6 @@
 <h1 align="center">Hi😄, I'm Grant Sweeney</h1>
 <h3 align="center">Full-Stack Developer, specializing in Mobile App Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grantsweeney02&label=Profile%20views&color=0e75b6&style=flat" alt="grantsweeney02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grantsweeney02" alt="grantsweeney02" /></a> </p>
-
 - 📈 I'm currently working on [EpochTrade](https://github.com/grantsweeney02/EpochTrade)
 
 - 🌱 I’m currently learning **Swift and Algorithmic Trading**
