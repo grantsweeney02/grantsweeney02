@@ -7,7 +7,7 @@
 
 - ✅ I recently finished [NotesHelper](https://github.com/grantsweeney02/NotesHelper)
 
-- 👨‍💻 All of my projects are available at [grantsweeney.com](grantsweeney.co)
+- 👨‍💻 All of my projects are available at [grantsweeney.co](grantsweeney.co)
 
 - 📫 How to reach me **grant.h.sweeney@outlook.com**
 
@@ -20,4 +20,5 @@
 <h3 align="left">Programming Languages:</h3>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 <h3 align="left">Frameworks:</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+<p><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" /></p>
