@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Swift and Algorithmic Trading**
 
-- ✅ I recently finished [NotesHelper](https://github.com/grantsweeney02/NotesHelper)
+- ✅ I recently finished [WisdomWidget](https://github.com/grantsweeney02/WisdomWidget)
 
 - 👨‍💻 All of my projects are available at [grantsweeney.co](grantsweeney.co)
 
