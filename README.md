@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer, specializing in Mobile App Development</h3>
 
 <p align="center">
-  <img src="banner.png" alt="Grant Sweeney - Banner" width="200"/>
+  <img src="banner.png" alt="Grant Sweeney - Banner" width="600"/>
 </p>
 
 - 📈 I'm currently working on [EpochTrade](https://github.com/grantsweeney02/EpochTrade), a platform aimed at simplifying algorithmic trading for beginners.
