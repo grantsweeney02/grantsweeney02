@@ -1,15 +1,15 @@
 <h1 align="center">Hi 😄 , I'm Grant Sweeney</h1>
 <h3 align="center">Full-Stack Developer, specializing in Mobile App Development</h3>
 
-- 📈 I'm currently working on [EpochTrade](https://github.com/grantsweeney02/EpochTrade)
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL" alt="Grant Sweeney - Banner" />
+</p>
 
-- 🌱 I’m currently learning **Swift and Algorithmic Trading**
-
-- ✅ I recently finished [WisdomWidget](https://github.com/grantsweeney02/WisdomWidget)
-
-- 👨‍💻 All of my projects are available at [grantsweeney.co](grantsweeney.co)
-
-- 📫 How to reach me **grant.h.sweeney@outlook.com**
+- 📈 I'm currently working on [EpochTrade](https://github.com/grantsweeney02/EpochTrade), a platform aimed at simplifying algorithmic trading for beginners.
+- 🌱 I’m diving deep into **Swift and Algorithmic Trading** to explore innovative ways to enhance mobile trading experiences.
+- ✅ Recently completed [WisdomWidget](https://github.com/grantsweeney02/WisdomWidget), a Google Chrome Extension that is your educational co-pilot taking notes for you as you study.
+- 👨‍💻 Explore my work at [grantsweeney.co](https://grantsweeney.co).
+- 📫 Reach out to me at **grant.h.sweeney@outlook.com**.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -38,4 +38,9 @@
 <p>
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+</p>
+
+<h3 align="left">What I'm Looking For:</h3>
+<p>
+  I'm keen on contributing to open-source projects related to mobile development and exploring opportunities in algorithmic trading platforms. If you're working on something exciting in these areas, let's connect!
 </p>
